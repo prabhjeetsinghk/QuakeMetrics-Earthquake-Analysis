@@ -49,10 +49,7 @@ cd earthquake-analysis</code></pre>
 </ol>
 
 <h2 id="contributing">Contributing</h2>
-<p>Contributions are welcome! If you have ideas, bug reports, or feature requests, please open an issue. If you'd like to contribute code, please follow the <a href="CONTRIBUTING.md">contribution guidelines</a>.</p>
+<p>Contributions are welcome! If you have ideas, bug reports, or feature requests, please open an issue. If you'd like to contribute code, please submit a pull request.</a>.</p>
 
-<hr>
-
-<p><em>Note: This README is a template. Please customize it based on your specific project details, structure, and requirements. Additionally, consider adding more detailed information about data sources, model architectures, and any other relevant aspects of your earthquake analysis and prediction project.</em></p>
-
+<b>Author: Prabhjeet Singh</b>
 </body>
