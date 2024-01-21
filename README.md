@@ -64,5 +64,7 @@ https://github.com/prabhjeetsinghk/QuakeMetrics-Eearthquake-Analysis/assets/1487
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! If you have ideas, bug reports, or feature requests, please open an issue. If you'd like to contribute code, please submit a pull request.</p>
 
-<b>Author: Prabhjeet Singh</b>
+<footer>
+<p>&copy; 2024 Prabhjeet Singh</p>
+</footer>
 </body>
