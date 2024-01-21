@@ -47,14 +47,16 @@ cd earthquake-analysis</code></pre>
 <li>Run the visulaization.ipynb file to pre-process and visualize the data</li>
 </ul>
 </ol>
-
 <h2 id="project snapshots">Project Snapshots</h2>
 <p>Below are few snapshots of the visualization of earthquake dataset.</p>
-<img src="\images\Earthquake-visualization-1.png" alt="Alt Text">
-<a href="\images\Earthquake-video-visualization.mp4" target="_blank">
-    <alt="Watch the Video">
-</a>
+<img src="\images\Earthquake-visualization-1.png" alt="Alt Text" />
 
+
+https://github.com/prabhjeetsinghk/QuakeMetrics-Eearthquake-Analysis/assets/148787330/1fdf768b-2e89-4170-9699-5777f876d27e
+
+
+
+https://github.com/prabhjeetsinghk/QuakeMetrics-Eearthquake-Analysis/assets/148787330/27af1f00-fd3c-43f2-b520-ceac51b19193
 
 
 
