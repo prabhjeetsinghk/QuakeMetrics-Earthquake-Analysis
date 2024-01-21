@@ -27,8 +27,8 @@
 <h2 id="installation">Installation</h2>
 <ol>
 <li>Clone the repository:
-<pre><code>git clone https://github.com/your-username/earthquake-analysis.git
-cd earthquake-analysis</code></pre>
+<pre><code>git clone https://github.com/prabhjeetsinghk/QuakeMetrics-Earthquake-Analysis.git
+cd code</code></pre>
 </li>
 <li>Install dependencies:
 <pre><code>pip install -r Code/requirements.txt</code></pre>
