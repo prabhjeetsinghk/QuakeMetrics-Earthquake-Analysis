@@ -31,7 +31,7 @@
 cd earthquake-analysis</code></pre>
 </li>
 <li>Install dependencies:
-<pre><code>pip install -r requirements.txt</code></pre>
+<pre><code>pip install -r Code/requirements.txt</code></pre>
 </li>
 </ol>
 
