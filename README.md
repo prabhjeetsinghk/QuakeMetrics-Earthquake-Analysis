@@ -48,8 +48,19 @@ cd earthquake-analysis</code></pre>
 </ul>
 </ol>
 
+<h2 id="project snapshots">Project Snapshots</h2>
+<p>Below are few snapshots of the visualization of earthquake dataset.</p>
+<img src="\images\Earthquake-visualization-1.png" alt="Alt Text">
+<a href="\images\Earthquake-video-visualization.mp4" target="_blank">
+    <alt="Watch the Video">
+</a>
+
+
+
+
+
 <h2 id="contributing">Contributing</h2>
-<p>Contributions are welcome! If you have ideas, bug reports, or feature requests, please open an issue. If you'd like to contribute code, please submit a pull request.</a>.</p>
+<p>Contributions are welcome! If you have ideas, bug reports, or feature requests, please open an issue. If you'd like to contribute code, please submit a pull request.</p>
 
 <b>Author: Prabhjeet Singh</b>
 </body>
